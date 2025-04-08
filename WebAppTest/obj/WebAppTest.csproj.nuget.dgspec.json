@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workplace\\Source\\WebAppTestAzure\\WebAppTest\\WebAppTest\\WebAppTest.csproj": {}
+    "C:\\Workplace\\Source\\WebAppTestGitAction\\WebAppTest\\WebAppTest.csproj": {}
   },
   "projects": {
-    "C:\\Workplace\\Source\\WebAppTestAzure\\WebAppTest\\WebAppTest\\WebAppTest.csproj": {
+    "C:\\Workplace\\Source\\WebAppTestGitAction\\WebAppTest\\WebAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workplace\\Source\\WebAppTestAzure\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
+        "projectUniqueName": "C:\\Workplace\\Source\\WebAppTestGitAction\\WebAppTest\\WebAppTest.csproj",
         "projectName": "WebAppTest",
-        "projectPath": "C:\\Workplace\\Source\\WebAppTestAzure\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
+        "projectPath": "C:\\Workplace\\Source\\WebAppTestGitAction\\WebAppTest\\WebAppTest.csproj",
         "packagesPath": "C:\\Users\\eagle\\.nuget\\packages\\",
-        "outputPath": "C:\\Workplace\\Source\\WebAppTestAzure\\WebAppTest\\WebAppTest\\obj\\",
+        "outputPath": "C:\\Workplace\\Source\\WebAppTestGitAction\\WebAppTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

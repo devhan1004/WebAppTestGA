@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rR3k8MGRqNs=",
+  "dgSpecHash": "Cc6AKZT9x7k=",
   "success": true,
-  "projectFilePath": "C:\\Workplace\\Source\\WebAppTestAzure\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
+  "projectFilePath": "C:\\Workplace\\Source\\WebAppTestGitAction\\WebAppTest\\WebAppTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eagle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
     "C:\\Users\\eagle\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
